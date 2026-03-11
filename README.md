@@ -61,9 +61,9 @@ Wysoka wartość **Recall** wskazuje na dobrą skuteczność modelu w wykrywaniu
 ## Struktura repozytorium
 
 ```
-Klasyfikacja-raka-prostaty-na-podstawie-vokseli/
+Prostate-cancer-voxel-classification/
 │
-├── projekt2.ipynb
+├── main.ipynb
 ├── data/
 │   ├── x_data_corrected_pz.npy
 │   ├── y_labels_pz.npy
